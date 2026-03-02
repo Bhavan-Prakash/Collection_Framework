@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/List/Array_List/Array_List.iml" filepath="$PROJECT_DIR$/List/Array_List/Array_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collection_Framework.iml" filepath="$PROJECT_DIR$/.idea/Collection_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/List/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/CopyOnWriteArrayList/CopyOnWriteArrayList.iml" filepath="$PROJECT_DIR$/List/CopyOnWriteArrayList/CopyOnWriteArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/List/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Stack/Stack.iml" filepath="$PROJECT_DIR$/List/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Vector/Vector.iml" filepath="$PROJECT_DIR$/List/Vector/Vector.iml" />
+    </modules>
+  </component>
+</project>

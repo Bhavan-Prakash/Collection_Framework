@@ -6,9 +6,9 @@ public class Main{
 //
 ////        ArrayList<Integer> arrayList = new ArrayList<>(); format for writting arraylist
 //
-//        <Integer> means that the arraylist is of type integer
+//        <Integer> means that the arraylist is of type integer , which is also known as generics
 //
-////        List<Integer> arrayList = new ArrayList<>(); arraylist can be written as this because list is the parent interface/class of arraylist
+////        List<Integer> arrayList = new ArrayList<>(); arraylist can be written as this because list is the parent interface of arraylist
 //
 //        ArrayList<Integer> list = new ArrayList<>();
 //
@@ -19,13 +19,13 @@ public class Main{
 //        System.out.println(list.get(2)); // will print the value at 2nd index i.e 80
 //        System.out.println(list.size()); // will print size of list i.e 3
 //
-//        // for printing every element, in this way we are using pointer
+//        // for printing every element, in this way we are using pointer "i"
 //
 //        for(int i = 0 ; i < list.size() ; i++){
 //            System.out.println(list.get(i));
 //        }
 //
-////        another very easy of printing elements in lists thios one is valid in arrays as well
+////        another very easy of printing elements in lists ,this one is valid in arrays as well
 //
 //        for(int x : list){
 //            System.out.println(x);
@@ -44,7 +44,7 @@ public class Main{
 //
 //        list.add(1,100); // in this method 100 will be added to index 1 and the element that is already present in the index 1 will be shifted to next index
 //
-//        list.set(1,50); // in thos method the 50 will be set to index 1 but the element that is already present in the index 1 will be gone instead of moving one index away
+//        list.set(1,50); // in this method the 50 will be set to index 1 but the element that is already present in the index 1 will be gone instead of moving one index away
 //
 ////        printing list without any loop
 //
@@ -57,7 +57,7 @@ public class Main{
 
 
 
-//        ArrayList<Integer> list = new ArrayList<>(1000); // in() we have default initial capacity which is by default 10
+//        ArrayList<Integer> list = new ArrayList<>(1000); // in () we have default initial capacity which is by default 10
 //
 //        list.trimToSize(); // used to reduce the capacity as the capacity doesnt reduce automatically unlike increases automatically
 //
